@@ -51,37 +51,37 @@ It allows users to **add, edit, delete, and search employees** with a clean and 
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone Repository
-```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
-2️⃣ Install Dependencies
+git clone https://github.com/harikarvashon/Employee-Management-System---A-Simple-CRUD-Application.git
+cd Employee-Management-System---A-Simple-CRUD-Application
+
+### 2️⃣ Install Dependencies
 Install backend & frontend dependencies together:
 
-bash
-Copy code
 npm install
 (Uses concurrently to install both backend and frontend packages)
 
-3️⃣ Start Development Servers
-bash
-Copy code
+### 3️⃣ Start Development Servers
 npm run dev
 Backend runs at http://localhost:5000
 
 Frontend runs at http://localhost:3000
 
-🔗 API Endpoints
+---
+
+### 🔗 API Endpoints
 Base URL: http://localhost:5000/api/employees
 
-Method	Endpoint	Description
+---
+
+### Method	Endpoint	Description
 GET	/	Fetch all employees
 POST	/	Add new employee
 PUT	/:id	Update employee
 DELETE	/:id	Delete employee
 
-📜 Scripts (Root package.json)
-json
-Copy code
+---
+
+### 📜 Scripts (Root package.json)
 {
   "name": "employee-management-system",
   "version": "1.0.0",
@@ -111,22 +111,18 @@ Copy code
     "build": "react-scripts build"
   }
 }
-📸 Screenshots
-Dashboard
-
-📜 License
-This project is licensed under the MIT License.
-
-👨‍💻 Developed by: Your Name
-
-yaml
-Copy code
 
 ---
 
-👉 With this setup:
-- Evaluators can just run:
-  ```bash
-  npm install
-  npm run dev
-And both backend & frontend will start together 🎉
+### 📸 Screenshots
+Dashboard
+
+---
+
+### 📜 License
+This project is licensed under the MIT License.
+
+---
+
+### 👨‍💻 Developed by: R. G. Harikar Vashon
+
