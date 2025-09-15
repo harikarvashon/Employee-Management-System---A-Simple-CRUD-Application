@@ -97,9 +97,13 @@ Base URL: http://localhost:5000/api/employees
 ---
 
 ### Method	Endpoint	Description
+
 GET	/	Fetch all employees
+
 POST	/	Add new employee
+
 PUT	/:id	Update employee
+
 DELETE	/:id	Delete employee
 
 ---
@@ -116,18 +120,18 @@ DELETE	/:id	Delete employee
     "concurrently": "^8.0.0"
   }
 }
+
 Backend package.json scripts
-json
-Copy code
+
 {
   "scripts": {
     "server": "node server.js",
     "dev": "nodemon server.js"
   }
 }
+
 Frontend package.json scripts
-json
-Copy code
+
 {
   "scripts": {
     "start": "react-scripts start",
