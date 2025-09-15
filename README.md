@@ -23,27 +23,49 @@ It allows users to **add, edit, delete, and search employees** with a clean and 
 ---
 
 ## 📂 Project Structure
+
 ├── backend/
+
 │ ├── models/
+
 │ │ └── Employee.js # Mongoose schema
+
 │ ├── routes/
+
 │ │ └── employee.js # API routes
+
 │ ├── server.js # Express server entry
+
 │ ├── package.json # Backend dependencies
+
 │
+
 ├── frontend/
+
 │ ├── src/
+
 │ │ ├── components/
+
 │ │ │ ├── EmployeeForm.js
+
 │ │ │ └── EmployeeTable.js
+
 │ │ ├── App.js
+
 │ │ ├── index.js
+
 │ │ └── index.css
+
 │ ├── public/
+
 │ │ └── index.html # React mount point
+
 │ ├── package.json # Frontend dependencies
+
 │
+
 ├── package.json # Root config (concurrently setup)
+
 └── README.md
 
 ---
@@ -52,6 +74,7 @@ It allows users to **add, edit, delete, and search employees** with a clean and 
 
 ### 1️⃣ Clone Repository
 git clone https://github.com/harikarvashon/Employee-Management-System---A-Simple-CRUD-Application.git
+
 cd Employee-Management-System---A-Simple-CRUD-Application
 
 ### 2️⃣ Install Dependencies
