@@ -139,6 +139,8 @@ Copy code
 
 ### 📸 Screenshots
 Dashboard
+<img width="1919" height="921" alt="image" src="https://github.com/user-attachments/assets/c53f2ddb-3765-43e9-bff7-65a455495350" />
+
 
 ---
 
