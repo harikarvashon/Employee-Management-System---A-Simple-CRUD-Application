@@ -153,5 +153,8 @@ This project is licensed under the MIT License.
 
 ---
 
-### 👨‍💻 Developed by: R. G. Harikar Vashon
-
+### 👨‍💻 Developed by: 
+R. G. Harikar Vashon
+21MID0140
+harikarvashon.r.g@gmail.com
++91 9342375862
